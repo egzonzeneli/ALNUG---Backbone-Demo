@@ -1,0 +1,280 @@
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.pdb
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Antlr3.Runtime.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\dotless.Core.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Optimization.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Providers.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\WebGrease.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.xml
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacts.csprojResolveAssemblyReference.cache
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.dll
+C:\Users\egzonz\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.pdb
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.pdb
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Antlr3.Runtime.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\dotless.Core.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Optimization.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Providers.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\WebGrease.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.xml
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacts.csprojResolveAssemblyReference.cache
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.dll
+C:\Users\egzon.zeneli\Documents\Visual Studio 2012\Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.pdb
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.pdb
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Antlr3.Runtime.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\dotless.Core.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Microsoft.Web.Infrastructure.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Optimization.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Providers.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\WebGrease.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.xml
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacts.csprojResolveAssemblyReference.cache
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.dll
+D:\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.pdb
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.pdb
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Antlr3.Runtime.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\dotless.Core.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Microsoft.Web.Infrastructure.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Optimization.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Providers.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\WebGrease.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.xml
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacts.csprojResolveAssemblyReference.cache
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.pdb
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlcese40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceqp40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceme40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceer40EN.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlcecompact40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceca40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlcese40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceqp40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceme40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceer40EN.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlcecompact40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceca40.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Data.SqlServerCe.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Data.SqlServerCe.Entity.dll
+D:\Example Projects\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.pdb
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlcese40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceqp40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceme40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceer40EN.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlcecompact40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceca40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlcese40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceqp40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceme40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceer40EN.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlcecompact40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceca40.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Antlr3.Runtime.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\dotless.Core.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Microsoft.Web.Infrastructure.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Data.SqlServerCe.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Data.SqlServerCe.Entity.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Optimization.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Providers.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\WebGrease.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.xml
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacts.csprojResolveAssemblyReference.cache
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.dll
+E:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.pdb
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\ALNUG.WebEv2012.Contacs.pdb
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlcese40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceqp40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceme40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceer40EN.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlcecompact40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\sqlceca40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlcese40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceqp40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceme40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceer40EN.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlcecompact40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\sqlceca40.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Antlr3.Runtime.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\dotless.Core.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Microsoft.Web.Infrastructure.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Data.SqlServerCe.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Data.SqlServerCe.Entity.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Optimization.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Providers.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\WebGrease.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\EntityFramework.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\Newtonsoft.Json.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.Formatting.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Net.Http.WebRequest.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Helpers.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Http.WebHost.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Mvc.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.Razor.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Deployment.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\bin\System.Web.WebPages.Razor.xml
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacts.csprojResolveAssemblyReference.cache
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.dll
+D:\Alnug\ALNUG.WebEv2012.Contacs\ALNUG.WebEv2012.Contacs\obj\Debug\ALNUG.WebEv2012.Contacs.pdb

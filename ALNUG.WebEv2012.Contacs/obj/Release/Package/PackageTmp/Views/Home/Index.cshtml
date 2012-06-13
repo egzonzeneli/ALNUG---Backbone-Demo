@@ -1,0 +1,103 @@
+﻿
+<section id="list-content" class="row-fluid">
+
+</section>
+<section class="row-fluid">
+    <div id="form-content" class="span6"></div>
+    <div id="list-number" class="span6"></div>
+</section>
+
+@section scripts{
+    <script id="contactTile" type="text/x-jsrender">
+        <div class='row-fluid'>
+            <div class='span11'></div>
+            <div class='span1 tile medium-tile green-tile'>
+                <a class='large-add pull-left' />
+            </div>
+        </div>
+        <br />
+        {{for items}}
+            {{if ((#index+1) % 3 === 1) }}
+                <div class="row-fluid">
+            {{/if}}
+            <div class="span4 tile {{if #index < 3 || #index > 5}} blue-tile {{else}} violet-tile {{/if}}">
+                <div class="row-fluid small-tile">
+                    <div class="span1"></div>
+                    <div class="span10"><h2>{{:FirstName}} {{:LastName}}</h2></div>
+                </div>
+                <div class="row-fluid small-tile">
+                    <div class="span1"></div>
+                    <div class="span5">{{:Number}}</div>
+                    <div class="span6">
+                        <p>
+                            <a data-contact-id="{{:Id}}" class="pull-right large-white-arrow"></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {{if ((#index+1) % 3 === 0) && (#index !== 0) }}
+                </div>
+                <hr/>
+            {{/if}}
+        {{/for}}
+        </div>
+    </script>
+
+    <script id="contactForm" type="text/x-jsrender">
+        <div class="span6">
+            <form class="form-horizontal">
+                <fieldset>
+                    <div class="control-group">
+                        <label class="control-label" for="txtName">First Name</label>
+                        <div class="controls">
+                          <input class="input-xlarge focused" id="txtName" data-name="FirstName" type="text" value="{{:FirstName}}">
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label" for="txtLastName">Last Name</label>
+                        <div class="controls">
+                          <input class="input-xlarge focused" id="txtLastName" data-name="LastName" type="text" value="{{:LastName}}">
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label" for="txtNumber">Number</label>
+                        <div class="controls">
+                          <input class="input-xlarge focused" id="txtNumber" data-name="Number" type="text" value="{{:Number}}">
+                        </div>
+                    </div>
+                    <div class="span12">
+                        <div class="span2 tile medium-tile green-tile">
+                            <a id="btnCancel" class='large-back pull-right' />
+                        </div>
+                        <div class="span6"></div>
+                        <div class="span2 tile medium-tile green-tile">
+                            <a id="submit" class='large-ok pull-right' />
+                        </div>
+                        <div class="span2 tile medium-tile green-tile">
+                            <a id="btnDelete" class='large-delete pull-right' />
+                        <div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </script>
+
+    @Scripts.Render("~/bundles/myScript")
+
+    <script type="text/javascript">
+        $(function () {
+            contacts.fetch({
+                success: function () {
+                    window.app = new ContactManager();
+                    Backbone.history.start();
+                },
+                error: function () {
+                    //TODO: Display error
+                }
+            });
+        });
+    </script>
+
+}
+
+

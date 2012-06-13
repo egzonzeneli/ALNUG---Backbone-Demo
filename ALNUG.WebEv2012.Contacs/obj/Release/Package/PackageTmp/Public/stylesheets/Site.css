@@ -1,0 +1,154 @@
+﻿.tile {
+	border: 1px solid #CCC;
+    color: #fff;
+    font-family:Segoe UI Light, sans-serif
+}
+
+    .large-tile {
+        height:80px;
+    }
+
+    .medium-tile {
+	    height: 60px;
+    }
+    
+    .small-tile {
+	    height: 40px;
+    }
+
+    .blue-tile  {
+        background: #0072C6;
+    }
+
+    .violet-tile {
+        background: #68217A;
+    }
+
+    .green-tile {
+        background: #7FBA00;
+    }
+    
+    .red-tile {
+        background: #EB3C00;
+    }
+        /*
+            style="background:darkOrange;"
+            style="background:#7FBA00;" green
+            style="background:#68217A;" violet
+            style="background:#EB3C00;" red
+            style="background:#00188F;" dark blue
+        */
+.large-add {
+    width: 48px;
+    height:49px;
+    background: url('../images/add-48.png') no-repeat scroll 0 0 transparent;
+    margin: 5px 5px 5px 10px;
+}
+    .large-add:hover {
+        background: url('../images/add-48.png') no-repeat scroll -48px 0 transparent;
+    }
+
+.large-back {
+    width: 48px;
+    height:49px;
+    background: url('../images/Left_Arrow.png') no-repeat scroll 0 0 transparent;
+    margin: 5px 7px 5px 5px;
+}
+    .large-back:hover {
+        background: url('../images/Left_Arrow.png') no-repeat scroll -48px 0 transparent;
+    }
+    
+ .large-ok {
+    width: 48px;
+    height:49px;
+    background: url('../images/Check-48.png') no-repeat scroll 0 0 transparent;
+    margin: 5px 7px 5px 5px;
+}
+    .large-ok:hover {
+        background: url('../images/Check-48.png') no-repeat scroll -48px 0 transparent;
+    }
+ 
+.large-delete {
+    width: 48px;
+    height:49px;
+    background: url('../images/close-48.png') no-repeat scroll 0 0 transparent;
+    margin: 5px 7px 5px 5px;
+}
+    .large-delete:hover {
+        background: url('../images/close-48.png') no-repeat scroll -48px 0 transparent;
+    }       
+      
+
+.right-white-arrow {
+    width: 24px;
+    height: 25px;
+    background: url('../images/arrowSprite.png') 0 0 no-repeat;
+    bottom: 0px;
+}
+
+.large-white-arrow {
+    background: url('../images/Large_Arrow.png') no-repeat scroll 0 0 transparent;
+    height: 38px;
+    width: 38px;
+}
+    .large-white-arrow:hover {
+        background: url('../images/Large_Arrow.png') no-repeat scroll -38px 0 transparent;
+    }
+
+.row-fluid > .span6 p {
+    margin-top: -3px;
+}
+
+
+
+ol.round {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+    ol.round li {
+        margin: 25px 0;
+        padding-left: 45px;
+    }
+
+        ol.round li.zero {
+            background: url("../Images/orderedList0.png") no-repeat;
+        }
+
+        ol.round li.one {
+            background: url("../Images/orderedList1.png") no-repeat;
+        }
+
+        ol.round li.two {
+            background: url("../Images/orderedList2.png") no-repeat;
+        }
+
+        ol.round li.three {
+            background: url("../Images/orderedList3.png") no-repeat;
+        }
+
+        ol.round li.four {
+            background: url("../Images/orderedList4.png") no-repeat;
+        }
+
+        ol.round li.five {
+            background: url("../Images/orderedList5.png") no-repeat;
+        }
+
+        ol.round li.six {
+            background: url("../Images/orderedList6.png") no-repeat;
+        }
+
+        ol.round li.seven {
+            background: url("../Images/orderedList7.png") no-repeat;
+        }
+
+        ol.round li.eight {
+            background: url("../Images/orderedList8.png") no-repeat;
+        }
+
+        ol.round li.nine {
+            background: url("../Images/orderedList9.png") no-repeat;
+        }
+
+
