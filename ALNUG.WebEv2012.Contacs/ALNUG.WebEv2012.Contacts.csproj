@@ -161,7 +161,6 @@
     <Content Include="Public\js\alnug.App.js" />
     <Content Include="Public\js\alnug.models.js" />
     <Content Include="Public\js\libs\jsRender.js" />
-    <Content Include="Public\js\test.js" />
     <Content Include="Public\stylesheets\bootstrap-responsive.min.css" />
     <Content Include="Public\stylesheets\bootstrap.min.css" />
     <Content Include="Public\images\glyphicons-halflings-white.png" />
